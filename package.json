@@ -3,11 +3,9 @@
   "version": "0.0.0",
   "private": true,
   "description": "Small description for ember-demo goes here",
-  "repository": "",
   "license": "MIT",
   "author": "",
   "directories": {
-    "doc": "doc",
     "test": "tests"
   },
   "scripts": {
@@ -48,5 +46,7 @@
   },
   "engines": {
     "node": "8.* || >= 10.*"
-  }
+  },
+  "main": ".eslintrc.js",
+  "dependencies": {}
 }
